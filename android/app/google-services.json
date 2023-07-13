@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1274232009",
+    "project_id": "foodapp-650ec",
+    "storage_bucket": "foodapp-650ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1274232009:android:d0050ce7ff381f86ade118",
+        "android_client_info": {
+          "package_name": "com.newone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1274232009-0qbdp9rqtd6vqa0s2jg53a0fgh7avti3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgnyxX6xP1GGGrqYSsBP2bdfBtzkLjzkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1274232009-0qbdp9rqtd6vqa0s2jg53a0fgh7avti3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
